@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber Security
 - 📫 How to reach me- LinkedIn handle: Syeda Abiha Fatima
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... I can cook 
+
 
 <!---
 Abiha0421/Abiha0421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
