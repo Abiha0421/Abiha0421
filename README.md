@@ -1,38 +1,16 @@
-Hi there, I'm Abiha! 👋
 
-🚀 Cybersecurity Enthusiast | Web Developer 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Syeda Abiha Fatima) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Syeda Abiha Fatima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bc230404890syedaabihafatima@gmail.com) 
 
-I am a passionate computer science student with expertise in cybersecurity and web development. I love building secure applications, working on innovative projects, and sharing knowledge with the community.
-
----
-
-🔥 Tech Skills
-- Programming: Python, JavaScript, C++
-- Cybersecurity: Ethical Hacking, Network Security, Malware Analysis, Digital Forensics
-- Web Development: HTML, CSS, JavaScript, React
-- Tools & Platforms: GitHub, Linux, Docker, Firebase
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abiha0421&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abiha0421&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiha0421&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abiha0421&icon=0&color=0)](https://visitcount.itsvg.in)
 
- 🚀 Projects & Contributions
-Cybersecurity
-[CyberInsights](https://www.cyberinsights.site/) – A cybersecurity awareness website covering phishing, malware, and security quizzes.
-
-Web & Open Source
-- Pakistan First Programmers Community – Open-source platform for programmers to collaborate and grow.
-- Contributing to cybersecurity & web development-related open-source projects.
-Whatsapp Group: https://chat.whatsapp.com/L3fB8dvMaiYCRo4ATbaEQK
-
----
-🛠 Upcoming Projects / Work in Progress
-- CyberXInfinity Shop – An online store for cybersecurity tools, resources, and merchandise.
-- CyberXInfinite– A multi-platform cybersecurity bot with interactive games, quizzes, and security features.
-- Pakistan First Programmers Community Expansion – Enhancing resources and collaboration for developers.
-
- 📫 Let's Connect!
-[![LinkedIn]https://www.linkedin.com/in/syeda-abiha-fatima-102b69342/
-[![GitHub] https://github.com/Abiha0421
-[![Website] https://www.cyberinsights.site/
-
-📌 *Always open to collaborating on cybersecurity and web development projects!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
